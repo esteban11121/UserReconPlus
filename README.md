@@ -1,7 +1,7 @@
 
 # 🕵️ UserReconPlus 🕵️
 
-**Versión mejorada y mantenida por [@esteban111221](https://github.com/esteban111221)**  
+**Versión mejorada y mantenida por [@esteban11121](https://github.com/esteban11121)**  
 ¡Este script es tu herramienta definitiva para buscar perfiles de usuario en múltiples plataformas de redes sociales y sitios web! 📲
 
 ## 🚀 Características
